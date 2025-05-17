@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Computer Science student at ASU</h3>
 
 - 🌱 I’m currently learning **Python libraries for machine learning**
 
