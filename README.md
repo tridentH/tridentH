@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
 <h3 align="center">Computer Science student at ASU</h3>
 
-- 🌱 I’m currently learning **Python libraries for machine learning**
-
-- 💬 Ask me about **my favorite anime 😀**
-
 - 📫 How to reach me **tristanhuynh123@gmail.com**
-
-- ⚡ Fun fact **I love playing the piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
