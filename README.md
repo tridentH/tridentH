@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">SWE Intern at ASRC Federal | CS @ ASU</h3>
+<h3 align="center">SWE Intern @ ASRC Federal | CS @ ASU</h3>
 
 - 📫 How to reach me **tristanhuynh123@gmail.com**
 
